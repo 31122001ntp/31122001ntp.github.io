@@ -25,7 +25,6 @@ namespace AppOOP
         }
 
         public Student()
-        {}
         {
             Name = stName;
         }
